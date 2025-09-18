@@ -1,0 +1,31 @@
+{
+    "manifest_version": 1,
+    "version": 1,
+    "type": "APP",
+    "name": {
+        "ja": "Slack連携プラグイン",
+        "en": "Slack plugin",
+        "zh": "Slack plugin"
+    },
+    "description": {
+        "ja": "Slackを用いたkintone API検証用の連携プラグインです。",
+        "en": "This is a Slack plugin.",
+        "zh": "This is a Slack plugin."
+    },
+    "icon": "contents/icon.png",
+    "desktop": {
+        "js": [
+            "desktops/desktop.js"
+        ]
+    },
+    "config":{
+        "html": "contents/setting.html",
+        "js": [
+            "config_js/config.js"
+        ],
+        "css": [
+                "config_css/51-modern-default.css"
+        ],
+         "required_params": []
+    }
+}

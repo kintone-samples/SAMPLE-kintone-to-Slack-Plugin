@@ -1,9 +1,11 @@
 /*
- * Slack Plug-in
+ * SAMPLE-kintone-to-Slack-Plugin Program
  * Copyright (c) 2025 Cybozu
  *
  * Licensed under the MIT License
+ * https://opensource.org/license/mit/
  */
+
 ((PLUGIN_ID) => {
   'use strict';
 

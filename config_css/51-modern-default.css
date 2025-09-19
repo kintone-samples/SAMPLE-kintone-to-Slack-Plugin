@@ -1,9 +1,11 @@
 @charset "UTF-8";
 /*
+ * SAMPLE-kintone-to-Slack-Plugin Program
  * Copyright (c) 2025 Cybozu
  *
  * Licensed under the MIT License
-*/
+ * https://opensource.org/license/mit/
+ */
 
 *[class|="kintoneplugin"] {
   color: #333;
